@@ -1,0 +1,5 @@
+name: Hola mundo
+type: module
+description: Un mensaje para el mundo
+package: Daniel 
+core: 8.x

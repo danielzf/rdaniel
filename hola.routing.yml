@@ -1,0 +1,6 @@
+hola:
+    path: /mensaje
+    defaults:
+        _controller: Drupal\hola\Controller\HolaController::mensaje
+    requirements:
+        _permission: 'access content'
